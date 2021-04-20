@@ -28,7 +28,7 @@
 
 <p>you are sad.</p>
 
-![努力奋斗](https://github.com/luojie21180128/luojie/blob/main/12.jpg)
+![努力奋斗](https://github.com/zpw-123/markdowntest/blob/main/qq.jpg)
 
 ```python
 def add(num1,num2):
